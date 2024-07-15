@@ -25,6 +25,17 @@ print(h2_todos)
 h2_uno_solo = soup.find_all('h2', limit=1)
 print(h2_uno_solo)
 
+for seccion in h2_todos:
+    print(seccion.text)
+
+for seccion in h2_todos:
+    print(seccion.get_text(strip = True))
+
+
+
+#print(seccion.find_all(class_ = "heading-container heading-center"))
+
+
 
 
 
