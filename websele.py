@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from PIL import Image, ImageDraw
 import requests
 import time
 
@@ -35,7 +36,36 @@ for seccion in h2_todos:
 
 #print(seccion.find_all(class_ = "heading-container heading-center"))
 
+# divs = soup.find_all(class_ = 'heading-container heading-center')
+# for div in divs:
+#     print(div)
+#     print(" ")
 
+divs = soup.find_all('div', class_ = 'heading-container heading-center')
+for div in divs:
+    print(div)
+    print(" ")
+
+
+src_todos = soup.find_all(src = True)
+for elemento in src_todos:
+    if elemento['src'].endswith(".jpg"):
+        print(elemento)
+
+#print(src_todos.get_text(strip = True))        
+
+
+url_imagenes = []
+
+for i, imagen in enumerate(src_todos):
+
+    if imagen['src'].endswith('png'):
+        
+        print(imagen['src'])
+        r = requests.get(f'https://scrapepark.org//courses/spanish/{imagen['src']}')
+
+        with open(f'imagen_{i}.png', 'wb') as f:
+            f.write(r.content)
 
 
 

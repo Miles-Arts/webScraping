@@ -33,3 +33,291 @@ Analizando...
         </h2>]
 [<h2>¿Por qué comprar con nosotros?</h2>]
 Terminado...
+Analizando...
+<h2>¿Por qué comprar con nosotros?</h2>
+¿Por qué comprar con nosotros?
+[<h2>¿Por qué comprar con nosotros?</h2>, <h2>
+                  #Novedades
+                </h2>, <h2>
+            Nuestros <span>productos</span>
+</h2>, <h2>
+            Testimonios de clientes
+          </h2>, <h2 class="heading-container">
+          Tabla de precios
+        </h2>]
+[<h2>¿Por qué comprar con nosotros?</h2>]
+¿Por qué comprar con nosotros?
+
+                  #Novedades
+                
+
+            Nuestros productos
+
+
+            Testimonios de clientes
+          
+
+          Tabla de precios
+        
+¿Por qué comprar con nosotros?
+#Novedades
+Nuestrosproductos
+Testimonios de clientes
+Tabla de precios
+<div class="heading-container heading-center" id="acerca">
+<h2>¿Por qué comprar con nosotros?</h2>
+</div>
+ 
+<div class="heading-container heading-center" id="productos">
+<h2>
+            Nuestros <span>productos</span>
+</h2>
+</div>
+ 
+<div class="heading-container heading-center">
+<h3>Suscríbete para obtener descuentos y ofertas</h3>
+</div>
+ 
+<div class="heading-container heading-center">
+<h2>
+            Testimonios de clientes
+          </h2>
+</div>
+ 
+[]
+ 
+[]
+ 
+[]
+ 
+[]
+ 
+Analizando...
+<h2>¿Por qué comprar con nosotros?</h2>
+¿Por qué comprar con nosotros?
+[<h2>¿Por qué comprar con nosotros?</h2>, <h2>
+                  #Novedades
+                </h2>, <h2>
+            Nuestros <span>productos</span>
+</h2>, <h2>
+            Testimonios de clientes
+          </h2>, <h2 class="heading-container">
+          Tabla de precios
+        </h2>]
+[<h2>¿Por qué comprar con nosotros?</h2>]
+¿Por qué comprar con nosotros?
+
+                  #Novedades
+                
+
+            Nuestros productos
+
+
+            Testimonios de clientes
+          
+
+          Tabla de precios
+        
+¿Por qué comprar con nosotros?
+#Novedades
+Nuestrosproductos
+Testimonios de clientes
+Tabla de precios
+<div class="heading-container heading-center" id="acerca">
+<h2>¿Por qué comprar con nosotros?</h2>
+</div>
+ 
+<div class="heading-container heading-center" id="productos">
+<h2>
+            Nuestros <span>productos</span>
+</h2>
+</div>
+ 
+<div class="heading-container heading-center">
+<h3>Suscríbete para obtener descuentos y ofertas</h3>
+</div>
+ 
+<div class="heading-container heading-center">
+<h2>
+            Testimonios de clientes
+          </h2>
+</div>
+ 
+Analizando...
+<h2>¿Por qué comprar con nosotros?</h2>
+¿Por qué comprar con nosotros?
+[<h2>¿Por qué comprar con nosotros?</h2>, <h2>
+                  #Novedades
+                </h2>, <h2>
+            Nuestros <span>productos</span>
+</h2>, <h2>
+            Testimonios de clientes
+          </h2>, <h2 class="heading-container">
+          Tabla de precios
+        </h2>]
+[<h2>¿Por qué comprar con nosotros?</h2>]
+¿Por qué comprar con nosotros?
+
+                  #Novedades
+                
+
+            Nuestros productos
+
+
+            Testimonios de clientes
+          
+
+          Tabla de precios
+        
+¿Por qué comprar con nosotros?
+#Novedades
+Nuestrosproductos
+Testimonios de clientes
+Tabla de precios
+<div class="heading-container heading-center" id="acerca">
+<h2>¿Por qué comprar con nosotros?</h2>
+</div>
+ 
+<div class="heading-container heading-center" id="productos">
+<h2>
+            Nuestros <span>productos</span>
+</h2>
+</div>
+ 
+<div class="heading-container heading-center">
+<h3>Suscríbete para obtener descuentos y ofertas</h3>
+</div>
+ 
+<div class="heading-container heading-center">
+<h2>
+            Testimonios de clientes
+          </h2>
+</div>
+ 
+<img alt="Parque de patinaje" src="images/slider-bg.jpg"/>
+<img alt="Patineta 2" src="images/p2.jpg"/>
+Terminado...
+Analizando...
+<h2>¿Por qué comprar con nosotros?</h2>
+¿Por qué comprar con nosotros?
+[<h2>¿Por qué comprar con nosotros?</h2>, <h2>
+                  #Novedades
+                </h2>, <h2>
+            Nuestros <span>productos</span>
+</h2>, <h2>
+            Testimonios de clientes
+          </h2>, <h2 class="heading-container">
+          Tabla de precios
+        </h2>]
+[<h2>¿Por qué comprar con nosotros?</h2>]
+¿Por qué comprar con nosotros?
+
+                  #Novedades
+                
+
+            Nuestros productos
+
+
+            Testimonios de clientes
+          
+
+          Tabla de precios
+        
+¿Por qué comprar con nosotros?
+#Novedades
+Nuestrosproductos
+Testimonios de clientes
+Tabla de precios
+<div class="heading-container heading-center" id="acerca">
+<h2>¿Por qué comprar con nosotros?</h2>
+</div>
+ 
+<div class="heading-container heading-center" id="productos">
+<h2>
+            Nuestros <span>productos</span>
+</h2>
+</div>
+ 
+<div class="heading-container heading-center">
+<h3>Suscríbete para obtener descuentos y ofertas</h3>
+</div>
+ 
+<div class="heading-container heading-center">
+<h2>
+            Testimonios de clientes
+          </h2>
+</div>
+ 
+<img alt="Parque de patinaje" src="images/slider-bg.jpg"/>
+<img alt="Patineta 2" src="images/p2.jpg"/>
+Terminado...
+Analizando...
+<h2>¿Por qué comprar con nosotros?</h2>
+¿Por qué comprar con nosotros?
+[<h2>¿Por qué comprar con nosotros?</h2>, <h2>
+                  #Novedades
+                </h2>, <h2>
+            Nuestros <span>productos</span>
+</h2>, <h2>
+            Testimonios de clientes
+          </h2>, <h2 class="heading-container">
+          Tabla de precios
+        </h2>]
+[<h2>¿Por qué comprar con nosotros?</h2>]
+¿Por qué comprar con nosotros?
+
+                  #Novedades
+                
+
+            Nuestros productos
+
+
+            Testimonios de clientes
+          
+
+          Tabla de precios
+        
+¿Por qué comprar con nosotros?
+#Novedades
+Nuestrosproductos
+Testimonios de clientes
+Tabla de precios
+<div class="heading-container heading-center" id="acerca">
+<h2>¿Por qué comprar con nosotros?</h2>
+</div>
+ 
+<div class="heading-container heading-center" id="productos">
+<h2>
+            Nuestros <span>productos</span>
+</h2>
+</div>
+ 
+<div class="heading-container heading-center">
+<h3>Suscríbete para obtener descuentos y ofertas</h3>
+</div>
+ 
+<div class="heading-container heading-center">
+<h2>
+            Testimonios de clientes
+          </h2>
+</div>
+ 
+<img alt="Parque de patinaje" src="images/slider-bg.jpg"/>
+<img alt="Patineta 2" src="images/p2.jpg"/>
+images/arrival-bg-store.png
+images/p1.png
+images/p3.png
+images/p4.png
+images/p5.png
+images/p6.png
+images/p7.png
+images/p8.png
+images/p9.png
+images/p10.png
+images/p11.png
+images/p12.png
+images/client-one.png
+images/client-two.png
+images/client-three.png
+./images/freecodecamp-logo.png
+Terminado...
