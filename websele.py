@@ -55,20 +55,30 @@ for elemento in src_todos:
 #print(src_todos.get_text(strip = True))        
 
 
-url_imagenes = []
+# url_imagenes = []
 
-for i, imagen in enumerate(src_todos):
+# for i, imagen in enumerate(src_todos):
 
-    if imagen['src'].endswith('png'):
+#     if imagen['src'].endswith('png'):
         
-        print(imagen['src'])
-        r = requests.get(f'https://scrapepark.org//courses/spanish/{imagen['src']}')
+#         print(imagen['src'])
+#         r = requests.get(f'https://scrapepark.org//courses/spanish/{imagen['src']}')
 
-        with open(f'imagen_{i}.png', 'wb') as f:
-            f.write(r.content)
+#         with open(f'imagen_{i}.png', 'wb') as f:
+#             f.write(r.content)
 
+URL_BASE = 'https://scrapepark.org//courses/spanish/'
+URL_TABLE = soup.find.all('iframe')[0]['src']
 
+request_table = requests.get(f'{URL_BASE}/{URL_TABLE}')
 
+html_table = request_table.text
+soup_tabla = BeautifulSoup(html_table, "html.parser")
+
+productos_faltantes = soup_tabla.find.all(['th','td'], attrs = {'style': 'color: red'})
+productos_faltantes = [talle.text for talle in productos_faltantes]
+
+print(productos_faltantes)
 
 
 
